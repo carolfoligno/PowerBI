@@ -7,6 +7,7 @@ Este repositório foi criado para armazenar projetos desenvolvidos por mim com o
 ## Projetos
 
 - [**Projeto 01:**](https://github.com/carolfoligno/PowerBI/tree/main/proj_01_marketing) Análise de Campanhas de Marketing
+- [**Projeto 02:**](https://github.com/carolfoligno/PowerBI/tree/main/proj_02_comercial) Análise de dados comerciais
 
 ## Como acessar os projetos
 
